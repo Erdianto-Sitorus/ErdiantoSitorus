@@ -1,5 +1,5 @@
 /* Gaya umum */
-body {
+body {F
   font-family: 'Montserrat', sans-serif;
   margin: 0;
   padding: 0;
@@ -40,7 +40,7 @@ nav ul li a:hover {
 }
 
 section {
-  padding: 10px 10px;
+  padding: 50px 20px;
 }
 
 /* Mengurangi jarak antara bagian "Tentang Saya" dan "Kontak" */
